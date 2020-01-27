@@ -1,5 +1,5 @@
 """
-Author: Siddharth Rajesh (23852860)
+Author: Siddharth Rajesh
 Start Date: 20th March 2019
 Last Modified Date: 11th April 2019
 
